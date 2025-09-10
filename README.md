@@ -10,16 +10,14 @@ The examples are grouped by chapter, following the structure of the book:
 
 ```
 Programming_Foundations_Examples/
-├── Chapter 02/   # Variables, input, output, basic math
-├── Chapter 03/   # Decision structures (if/else)
-├── Chapter 04/   # Loops and repetition structures
-├── Chapter 05/   # Functions
-├── Chapter 06/   # Files and exceptions
-├── Chapter 07/   # Lists and tuples
-├── Chapter 08/   # More about strings
-├── Chapter 09/   # Dictionaries and sets
-├── Chapter 10/   # Classes and object-oriented programming
-...
+├── Chapter_02/   # Variables, input, output, basic math
+├── Chapter_03/   # Decision structures (if/else)
+├── Chapter_04/   # Loops and repetition structures
+├── Chapter_05/   # Functions
+├── Chapter_06/   # Files and exceptions
+├── Chapter_07/   # Lists and tuples
+├── Chapter_08/   # More about strings
+├── Chapter_09/   # Dictionaries and sets
 ```
 
 Each folder contains small, focused `.py` scripts such as:
