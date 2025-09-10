@@ -37,6 +37,3 @@ my_string = "coding**is**cool**345"
 print([char.isdigit() for char in my_string])
 print(any([char.isdigit() for char in my_string]))
 print(all([char.isdigit() for char in my_string]))
-# Computing prime numbers up to 100
-list_using_comp = [x for x in range(2, 100) if all(x % y for y in range(2, x // 2))]
-print("Output List using list comprehension:", list_using_comp)
